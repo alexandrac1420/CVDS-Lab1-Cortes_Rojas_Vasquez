@@ -1,6 +1,6 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES: Samuel-Sebastián-Alexandra
+AUTORES: Samuel-Sebastián-Alexandra-Rojas-Vasquez-Cortes
 
 CAPITULO UNO
 
