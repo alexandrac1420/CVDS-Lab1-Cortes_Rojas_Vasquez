@@ -31,8 +31,10 @@ vector = [complex(2,-1),complex(0,2),complex(1,-1),complex(1,0),complex(0,-2),co
 posicion = 3
 result = qs.probability_pos(vector, posicion)
 print("Probabilidad :",result)
-
-
 ```
+
+## PARTE III. - GIT BRANCHING
+![Primera Parte](image.png)
+
 ## Autor
 **Ing. Juan Sebastian Vasquez Vega**
