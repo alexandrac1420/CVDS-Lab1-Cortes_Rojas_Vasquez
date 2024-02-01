@@ -82,7 +82,7 @@ En caso de que se desee utilizar algunos de estos proyectos es necesario que ten
 
 # Parte 3 -Git Branching
 ![Alt text](image.png)
-
+![Alt text](image-1.png)
   
 ## Autor 
 __Alexandra Cortes Tovar__ 
