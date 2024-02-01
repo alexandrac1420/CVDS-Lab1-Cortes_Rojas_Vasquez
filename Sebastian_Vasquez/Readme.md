@@ -34,7 +34,9 @@ print("Probabilidad :",result)
 ```
 
 ## PARTE III. - GIT BRANCHING
-![Primera Parte](image.png)
+![Primera Parte Local](image.png)
+![Segunda Parte Local](image-1.png)
+
 
 ## Autor
 **Ing. Juan Sebastian Vasquez Vega**
