@@ -80,10 +80,12 @@ En caso de que se desee utilizar algunos de estos proyectos es necesario que ten
 
     ~~~
 
+
 # Parte 3 -Git Branching
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![image](https://github.com/alexandrac1420/CVDS-Lab1-Cortes_Rojas_Vasquez/assets/138069735/435772b7-1a36-45f1-bb0a-e716e089ce25)
+
 
   
 ## Autor 
