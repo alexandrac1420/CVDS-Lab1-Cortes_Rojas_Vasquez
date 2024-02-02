@@ -36,6 +36,7 @@ print("Probabilidad :",result)
 ## PARTE III. - GIT BRANCHING
 ![Primera Parte Local](image.png)
 ![Segunda Parte Local](image-1.png)
+![Parte Remota](image-2.png)
 
 
 ## Autor
